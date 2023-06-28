@@ -1,2 +1,2 @@
 # GithubNotes
-Understand Github knowledge
+Understand Github knowledge. github is cool
